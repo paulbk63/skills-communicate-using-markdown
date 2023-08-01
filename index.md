@@ -28,3 +28,8 @@ sgsgs
 hello new github
 ~~~
 
+
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
+- [x] this is needed to complete
